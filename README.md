@@ -1,4 +1,4 @@
-boston_app
+boston_app v2.0
 ==============================
 
 A short description of the project.
